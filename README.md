@@ -17,14 +17,6 @@ Built with **HTML5**, **Tailwind CSS**, **Chart.js**, and **JavaScript**.
 
 ---
 
-## 🖥️ Screenshots
-
-![Home Page](https://placehold.co/600x300/3b82f6/FFF?text=Home+Page)
-![Voting Page](https://placehold.co/600x300/4f46e5/FFF?text=Voting+Page)
-![Results Page](https://placehold.co/600x300/f97316/FFF?text=Results+Page)
-
----
-
 ## 🛠️ Tech Stack
 
 - **Frontend:** HTML5, Tailwind CSS, Google Fonts (Poppins)
